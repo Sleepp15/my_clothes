@@ -129,7 +129,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="230dp"
         android:layout_marginTop="476dp"
-        android:text="合适" />
+        android:text="舒适" />
 
     <Button
         android:id="@+id/feeling3"
