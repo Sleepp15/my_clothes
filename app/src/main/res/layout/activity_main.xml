@@ -41,7 +41,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="80dp"
         android:layout_marginRight="14dp"
-        android:text="风"
+        android:text="风的等级"
         android:textColor="@color/white"
         android:textSize="25sp" />
 
