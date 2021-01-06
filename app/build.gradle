@@ -7,7 +7,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.buptchuyan.myclothes2"
+        applicationId 'com.buptchuyan.myclothes'
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
